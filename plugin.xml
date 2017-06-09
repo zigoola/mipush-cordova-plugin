@@ -16,8 +16,6 @@
     <preference name="PACKAGE_NAME" />
     <preference name="MI_PUSH_APP_KEY"/>
     <preference name="MI_PUSH_APP_ID" />
-    <preference name="MI_PUSH_APP_IOS_KEY"/>
-    <preference name="MI_PUSH_APP_IOS_ID" />
 
     <!-- dependencies -->
     <dependency id="cordova-plugin-device" />
